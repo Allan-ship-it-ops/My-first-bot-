@@ -9,4 +9,4 @@ Um projeto rápido que fiz para um servidor meu enquanto aprendia a configurar m
 Deutsche:
 Ein kurzes Projekt, das ich für einen meiner Server erstellt habe, während ich lernte, meinen Bot zu konfigurieren. Das Lernen hat Spaß gemacht, war aber auch mühsam, weil es mich viel Zeit und Mühe gekostet hat.
 
-Polska: Szybki projekt, który zrobiłem na mój serwer, gdy uczyłem się konfigurować bota. Nauka sprawiła mi frajdę, ale była też bolesna, bo kosztowała mnie dużo czasu i wysiłku.
+Polski: Szybki projekt, który zrobiłem na mój serwer, gdy uczyłem się konfigurować bota. Nauka sprawiła mi frajdę, ale była też bolesna, bo kosztowała mnie dużo czasu i wysiłku.
